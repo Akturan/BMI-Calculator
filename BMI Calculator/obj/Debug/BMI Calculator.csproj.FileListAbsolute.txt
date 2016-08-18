@@ -1,0 +1,4 @@
+c:\users\entwickler\documents\visual studio 2015\Projects\BMI Calculator\BMI Calculator\bin\Debug\BMI Calculator.dll
+c:\users\entwickler\documents\visual studio 2015\Projects\BMI Calculator\BMI Calculator\bin\Debug\BMI Calculator.pdb
+c:\users\entwickler\documents\visual studio 2015\Projects\BMI Calculator\BMI Calculator\obj\Debug\BMI Calculator.dll
+c:\users\entwickler\documents\visual studio 2015\Projects\BMI Calculator\BMI Calculator\obj\Debug\BMI Calculator.pdb
